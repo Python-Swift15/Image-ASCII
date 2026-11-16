@@ -34,3 +34,8 @@ By the end of my DofE Skills activity, I aim to build a Python program that lets
 ## 💻 Final code
 
 Planned file `ascii_converter.py`. I'll add the program and run instructions here as I build and test it.
+
+## License
+
+Open source - Feel free to take inspiration!
+
